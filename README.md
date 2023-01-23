@@ -28,3 +28,19 @@ The Microsoft Certified: Azure Fundamentals certification could be a great fit f
 <br>
 It is recommended to have familiarity with concepts of networking, storage, compute, application support, and application development. You can use your Azure Fundamentals certification to reinforce your basics for other Azure role-based or specialty certifications, but it isn’t a prerequisite for any of them. <br>
 
+## Certification Page
+https://learn.microsoft.com/en-us/certifications/exams/az-900
+
+## Skills Outline
+[Skill Outline](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
+-Describe cloud computing
+-Describe the benefits of using cloud services
+-Describe cloud service types
+-Describe the core architectural components of Azure
+-Describe Azure compute and networking services
+-Describe Azure storage services
+-Describe Azure identity, access, and security
+-Describe cost management in Azure
+-Describe features and tools in Azure for governance and compliance
+-Describe features and tools for managing and deploying Azure resources
+-Describe monitoring tools in Azure
