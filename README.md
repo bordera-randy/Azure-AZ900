@@ -1,5 +1,12 @@
 # <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure Fundamentals Badge" width="100" height="100"> AZ-900: Microsoft Azure Fundamentals
 
+
+
+<img src="https://github.com/bordera-randy/Azure-AZ900/blob/main/img/2023-02-15%2006_38_44-Azure%20Training%20%2B%20Certification%20Guide%20and%208%20more%20pages%20-%20Work%202%20-%20Microsoft%E2%80%8B%20Edge.jpg" alt="Azure Fundamentals" width="1000" height="800">
+
+
+
+
 Candidates for this exam should have foundational knowledge of cloud services and how those services are provided with Microsoft Azure. The exam is intended for candidates who are just beginning to work with cloud-based solutions and services or are new to Azure.
 
 Azure Fundamentals exam is an opportunity to prove knowledge of cloud concepts, Azure services, Azure workloads, security and privacy in Azure, as well as Azure pricing and support. Candidates should be familiar with the general technology concepts, including concepts of networking, storage, compute, application support, and application development.
