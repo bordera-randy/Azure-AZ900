@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/bordera-randy/Azure-AZ900/blob/main/img/2023-02-15%2006_38_44-Azure%20Training%20%2B%20Certification%20Guide%20and%208%20more%20pages%20-%20Work%202%20-%20Microsoft%E2%80%8B%20Edge.jpg" alt="Azure Fundamentals" width="1000" height="800">
+<img src="https://github.com/bordera-randy/Azure-AZ900/blob/main/img/2023-02-15%2006_38_44-Azure%20Training%20%2B%20Certification%20Guide%20and%208%20more%20pages%20-%20Work%202%20-%20Microsoft%E2%80%8B%20Edge.jpg" alt="Azure Fundamentals" width="800" height="800">
 
 
 
